@@ -1,5 +1,5 @@
 import streamlit as st
-import plotly.graph_objects as go
+# import plotly.graph_objects as go
 import leafmap.foliumap as leafmap
 import random
 from functions_json import function_json
